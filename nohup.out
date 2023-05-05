@@ -1,0 +1,9 @@
+[1710:0505/020648.871497:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+[90m[main 2023-05-05T08:06:50.322Z][0m window#load: attempt to load window (id: 1)
+[90m[main 2023-05-05T08:06:50.498Z][0m update#setState idle
+[90m[main 2023-05-05T08:06:51.778Z][0m ExtensionHostStarterWorker created
+[90m[main 2023-05-05T08:06:56.314Z][0m window#load: window reported ready (id: 1)
+[90m[main 2023-05-05T08:06:57.335Z][0m Starting extension host with pid 1795 (fork() took 27 ms).
+[90m[main 2023-05-05T08:06:57.344Z][0m ExtensionHostStarterWorker.start() took 40 ms.
+[90m[main 2023-05-05T08:07:01.897Z][0m Waiting for extension host with pid 1795 to exit.
+[90m[main 2023-05-05T08:07:01.923Z][0m Extension host with pid 1795 exited with code: 0, signal: null.
